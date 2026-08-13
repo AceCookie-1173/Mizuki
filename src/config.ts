@@ -164,6 +164,7 @@ export const siteConfig: SiteConfig = {
 			title: "AceCookie", // 主页横幅主标题
 
 			subtitle: [
+				"jinby就是gay!!!!!!"
 				"又是没好的一天",
 				"愿此行，终抵群星",
 				"Ace的小站",
