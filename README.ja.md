@@ -13,7 +13,7 @@
 [**🖥️ ライブデモ**](https://mizuki.mysqil.com/) | [**📝 ドキュメント**](https://docs.mizuki.mysqil.com/)
 
 🌏 **README の言語:**
-[**English**](./README.md) / [**中文**](./README.zh.md) / [**日本語**](./README.ja.md) / [**繁體中文**](./README.tw.md) /
+[**中文**](./README.md) / [**English**](./README.en.md) / [**日本語**](./README.ja.md) / [**繁體中文**](./README.tw.md) /
 
 包括的なドキュメントですぐに始めましょう。テーマのカスタマイズや機能の設定、本番環境へのデプロイなどブログを完成させるために必要なすべての情報がドキュメントに網羅されています。
 

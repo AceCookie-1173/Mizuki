@@ -13,7 +13,7 @@
 [**🖥️ 線上演示**](https://mizuki.mysqil.com/) | [**📝 使用者文檔**](https://docs.mizuki.mysqil.com/)
 
 🌏 **README 語言:**
-[**English**](./README.md) / [**中文**](./README.zh.md) / [**日本語**](./README.ja.md) / [**繁體中文**](./README.tw.md) /
+[**中文**](./README.md) / [**English**](./README.en.md) / [**日本語**](./README.ja.md) / [**繁體中文**](./README.tw.md) /
 
 透過我們的綜合文檔快速開始。無論是自訂主題、配置功能，還是部署到生產環境，文檔涵蓋了您成功啟動部落格所需的所有內容。
 
