@@ -1,5 +1,10 @@
 # Mizuki 文档索引
 
+> [!WARNING]
+> ### ⚠️ 项目停止更新通知
+> **本项目（Mizuki）即将停止更新与维护。**  
+> 全新全面重构版本为 **[Shirone](https://github.com/lyraVoid/shirone)**（功能基本一致，架构全新升级），建议前往新项目：[https://github.com/lyraVoid/shirone](https://github.com/lyraVoid/shirone)
+
 欢迎查阅 Mizuki 的详细文档！
 
 ## 📚 文档列表

@@ -4,6 +4,12 @@
 
 [Astro](https://astro.build) で構築された高度な機能と美しいデザインを備えた、モダンで機能が豊富な静的ブログテンプレート。
 
+> [!WARNING]
+> ### ⚠️ プロジェクトの更新停止および新プロジェクトへの移行案内
+> **本プロジェクト（Mizuki）は間もなくメンテナンスおよび更新を停止します。**  
+> ほぼ同等の機能を備え、全面的にリファクタリングされた後継バージョン **[Shirone](https://github.com/lyraVoid/shirone)** を公開しました。ぜひ新しいプロジェクトをご利用ください：  
+> 🔗 **新プロジェクトリポジトリ：[https://github.com/lyraVoid/shirone](https://github.com/lyraVoid/shirone)**
+
 [![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen)](https://nodejs.org/)
 [![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D11-blue)](https://pnpm.io/)
 [![Astro](https://img.shields.io/badge/Astro-7.1.3-orange)](https://astro.build/)

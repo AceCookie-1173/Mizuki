@@ -4,6 +4,12 @@
 
 A modern, feature-rich static blog template built with [Astro](https://astro.build), featuring advanced functionality and beautiful design.
 
+> [!WARNING]
+> ### ⚠️ Project Sunset & Successor Project Notice
+> **This project (Mizuki) will soon stop receiving updates and maintenance.**  
+> A fully refactored successor version, **[Shirone](https://github.com/lyraVoid/shirone)**, is now available with equivalent features and a modernized architecture. We strongly recommend migrating to and following the new project:  
+> 🔗 **New Project Repository: [https://github.com/lyraVoid/shirone](https://github.com/lyraVoid/shirone)**
+
 [![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen)](https://nodejs.org/)
 [![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D11-blue)](https://pnpm.io/)
 [![Astro](https://img.shields.io/badge/Astro-7.1.3-orange)](https://astro.build/)

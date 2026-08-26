@@ -4,6 +4,12 @@
 
 一个现代化、功能丰富的静态博客模板，基于 [Astro](https://astro.build) 构建，具有先进的功能和精美的设计。
 
+> [!WARNING]
+> ### ⚠️ 项目停止更新与迁移通知
+> **本项目（Mizuki）即将停止更新与维护。**  
+> 全新全面重构版本 **[Shirone](https://github.com/lyraVoid/shirone)** 现已发布，功能与本项目基本一致，并在架构与体验上进行了全面重构与优化。建议前往新项目获取最新支持与更新：  
+> 🔗 **新项目仓库：[https://github.com/lyraVoid/shirone](https://github.com/lyraVoid/shirone)**
+
 [![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen)](https://nodejs.org/)
 [![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D11-blue)](https://pnpm.io/)
 [![Astro](https://img.shields.io/badge/Astro-7.1.3-orange)](https://astro.build/)
